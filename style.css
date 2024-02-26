@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    padding: 10px 10%;
+    justify-content: space-between;
+    background-color:black;
+    margin: 0;
+}
+
+a {
+    
+    color: azure;
+    text-decoration: none;
+}
+
+.nav li {
+    margin: 0 10px;
+    font-weight: bold;
+    font-size: small;
+    display: inline-block;
+    
+}
+
+
+
+h1{
+
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+footer{
+
+    display: flex;
+    justify-content: center;
+    color: azure;
+    padding: 1%;   
+
+
+    background-color: black;
+}
+
+img
+{
+    display: flex;
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+}
+
+
+article{
+
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5%;
+
+
+
+}
+
+.service{
+    border: 1px solid grey;
+}
